@@ -16,9 +16,9 @@ https://sites.google.com/view/labat/01
 
  Itens    | Disciplinas         | Link  |
 | ------------- |:-------------:| -----:|
-|    | Projeto de Levantamento Topográfico   |(https://www.google.com)|
-| Parcelamento Territórial    | centered      |   $12 |
- zebra stripes | are neat      |    $1 |
+|   1 | Projeto de Levantamento Topográfico   |(https://www.google.com)|
+| 2   | Parcelamento Territórial     |  (https://www.google.com)|
+|3 | Topografia 1    |    (https://www.google.com) |
 
 ## Projetos:
 
