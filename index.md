@@ -23,8 +23,6 @@ Com os avanços da informática e principalmente com o advento da computação g
 | 2   | Parcelamento Territórial     |  (https://gist.github.com/ErisonBarros/6792ca0c8aa9c7ee428e226148fd3e87)|
 |3 | Topografia 1    |    (https://www.google.com) |
 
-
-
 # Linguagens de Programação utilizada no Portal
 
 ```javascript
@@ -44,4 +42,10 @@ print s
 2. [Projeto de Rede de Referência  do Município de Paudalho](https://www.google.com)
 
 3. [Desenvolvimento de Peças de Reposição para Acessórios de Topografia a partir de Impressoras 3D.](https://www.google.com)
+
+## Referencias 
+
+1. [Introdução ao Machine Learning](https://dataat.github.io/introducao-ao-machine-learning/index.html#licen%C3%A7a)
+2. [introducao-analise-de-dados](https://dataat.github.io/introducao-analise-de-dados/)
+3. [Docker](https://dataat.github.io/introducao-docker/exemplos-de-uso.html#postgres)
 
