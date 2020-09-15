@@ -1,9 +1,11 @@
+____
 ## Departamento de Engenharia Cartógrafica - Decart
+____
 ### Centro de Técnologia e Geociências - CTG
 ### Universidade Federal de Pernambuco - UFPE
-
+---
 # Laboratório de Automação Topográfica
-
+---
 # *Bem Vindo a Página do Laboratório de Automação Topográfica*
 
 
@@ -21,11 +23,39 @@ https://sites.google.com/view/labat/01
 | 2   | Parcelamento Territórial     |  (https://www.google.com)|
 |3 | Topografia 1    |    (https://www.google.com) |
 
+
+
+# Linguagens de Programação utilizada no Portal
+<dl>
+  <dt>É algo que as pessoas usam às vezes</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd> *Não Funciona **muito** bem. Use HTML <em>tags</em>.</dd>
+</dl>
+
+# Regra Horizontal
+
+Regra Horizontal
+Three or more...
+
+---
+
+Hyphens
+
+***
+
+Asterisks
+
+___
+
+Underscores
+
 ## Projetos:
 
-[Reconhecimento de faces a partir de mascaras - COVID-19](https://www.google.com)
+1. [Reconhecimento de faces a partir de mascaras - COVID-19](https://www.google.com)
 
-[Projeto de Rede de Referência  do Município de Paudalho](https://www.google.com)
+2. [Projeto de Rede de Referência  do Município de Paudalho](https://www.google.com)
 
-[Desenvolvimento de Peças de Reposição para Acessórios de Topografia a partir de Impressoras 3D.](https://www.google.com)
+3. [Desenvolvimento de Peças de Reposição para Acessórios de Topografia a partir de Impressoras 3D.](https://www.google.com)
 
