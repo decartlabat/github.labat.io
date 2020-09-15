@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Laboratório de Automação Topográfica
+## Departamento de Engenharia Cartógrafica - Decart
+### Centro de Técnologia e Geociências - CTG
+### Universidade Federal de Pernambuco - UFPE
+## Bem Vindo a Página do Laboratório de Automação Topográfica
 
-You can use the [editor on GitHub](https://github.com/decartlabat/github.labat.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Com os avanços da informática e principalmente com o advento da computação gráfica, várias ciências se beneficiaram, dentre elas, a topografia e a geodesia. Esta evolução fica evidente nos equipamentos atuais: estações totais com coletor interno de dados, receptores GPS – Posicionamento por Satélites etc.  Produtividade em campo, cálculos e desenhos realizados com velocidade espantosa, vêm cada vez mais demonstrar que esse caminho não tem retorno. A própria automação rege conceitos e técnicas em busca de eficiência ótima nos levantamentos, visando o uso correto das informações armazenadas, o que implica em alimentar os programas com dados íntegros. Com finalidade de atender a esses avanços, surge a necessidade de criar o Laboratório de Automação Topográfica, denominado de LabAT. Este laboratório proporcionara a comunidade acadêmica da UFPE, e principalmente aos alunos do Departamento de Engenharia Cartográfica, nas aulas de Projeto de Levantamento Topográfico e Parcelamento Territorial e demais aulas afins, o conhecimento de como alimentar os programas de automação topográfica, o planejamento do trabalho de campo de maneira compatível com os sistemas de automação ser utilizado. Estas práticas permitirão que os futuros profissionais, formados pela Decart, adquiram seu próprio fluxo de informações, sendo capazes de analisar os programas existentes no mercado.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/decartlabat/github.labat.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
