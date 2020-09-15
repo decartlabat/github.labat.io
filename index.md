@@ -5,15 +5,12 @@
 
 [![License: GPL
 v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
-
 ____
-## Departamento de Engenharia Cartógrafica - Decart
-____
+## Universidade Federal de Pernambuco - UFPE
 ### Centro de Técnologia e Geociências - CTG
-### Universidade Federal de Pernambuco - UFPE
----
-# Laboratório de Automação Topográfica
----
+#### Departamento de Engenharia Cartógrafica - Decart
+____
+
 ### *Bem Vindo a Página do Laboratório de Automação Topográfica*
 
 
