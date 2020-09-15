@@ -14,15 +14,15 @@ Com os avanços da informática e principalmente com o advento da computação g
 
 https://sites.google.com/view/labat/01
 
- Tables        | Are           | Cool  |
+ Itens    | Disciplinas         | Link  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|    | Projeto de Levantamento Topográfico   |(https://www.google.com)|
+| Parcelamento Territórial    | centered      |   $12 |
+ zebra stripes | are neat      |    $1 |
 
 ## Projetos:
 
-´[Reconhecimento de faces a partir de mascaras - COVID-19](https://www.google.com)
+[Reconhecimento de faces a partir de mascaras - COVID-19](https://www.google.com)
 
 [Projeto de Rede de Referência  do Município de Paudalho](https://www.google.com)
 
