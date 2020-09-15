@@ -22,11 +22,11 @@ Com os avanços da informática e principalmente com o advento da computação g
 
 
 ## Disciplinas Ministradas no Laboratório
-|**Itens**     | **Disciplinas**   | **Link**   |
-| |:-------------- |:------------| |:-----------|
-|   1 | Projeto de Levantamento Topográfico  |(https://www.google.com)|
-| 2   | Parcelamento Territórial     |  (https://gist.github.com/ErisonBarros/6792ca0c8aa9c7ee428e226148fd3e87)|
-|3 | Topografia 1    |    (https://www.google.com) |
+| **ITENS** | **DISCIPLINAS **                         | **LINKS**                                                                   |
+|-------|--------------------------------------|-------------------------------------------------------------------------|
+| 1     | Projeto de Levantamento Topográfico  | (https://www.google.com)                                                |
+| 2     | Parcelamento Territórial             | (https://gist.github.com/ErisonBarros/6792ca0c8aa9c7ee428e226148fd3e87) |
+| 3     | Topografia 1                         | (https://www.google.com)                                                |
 
 # Linguagens de Programação utilizada no Portal
 
@@ -53,6 +53,7 @@ print s
 1. [Introdução ao Machine Learning](https://dataat.github.io/introducao-ao-machine-learning/index.html#licen%C3%A7a)
 2. [introducao-analise-de-dados](https://dataat.github.io/introducao-analise-de-dados/)
 3. [Docker](https://dataat.github.io/introducao-docker/exemplos-de-uso.html#postgres)
+4. https://www.tablesgenerator.com/markdown_tables#
 
 ## Lincenças que vamos usar no laboratório
 
