@@ -22,7 +22,7 @@ https://sites.google.com/view/labat/01
  **Itens**     | **Disciplinas**          | **Link**   |
 | ------------- |:-------------:| -----:|
 |   1 | Projeto de Levantamento Topográfico  |(https://www.google.com)|
-| 2   | Parcelamento Territórial     |  ("https://gist.github.com/ErisonBarros/6792ca0c8aa9c7ee428e226148fd3e87.js")|
+| 2   | Parcelamento Territórial     |  (https://gist.github.com/ErisonBarros/6792ca0c8aa9c7ee428e226148fd3e87.js)|
 |3 | Topografia 1    |    (https://www.google.com) |
 
 
