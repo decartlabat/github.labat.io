@@ -28,7 +28,9 @@ Com os avanços da informática e principalmente com o advento da computação g
 | 2     | Parcelamento Territórial             | (https://gist.github.com/ErisonBarros/6792ca0c8aa9c7ee428e226148fd3e87) |
 | 3     | Topografia 1                         | (https://www.google.com)                                                |
 
-# Linguagens de Programação utilizada no Portal
+
+
+# Linguagens de Programação utilizados na Disciplina
 
 ```javascript
 var s = "JavaScript syntax highlighting";
