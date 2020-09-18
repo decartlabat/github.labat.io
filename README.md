@@ -56,6 +56,7 @@ print s
 2. [introducao-analise-de-dados](https://dataat.github.io/introducao-analise-de-dados/)
 3. [Docker](https://dataat.github.io/introducao-docker/exemplos-de-uso.html#postgres)
 4. https://www.tablesgenerator.com/markdown_tables#
+5. https://github.com/brazil-data-cube
 
 ## Lincenças que vamos usar no laboratório
 
