@@ -61,11 +61,11 @@ print s
 
 
 ## Lincenças que vamos usar no laboratório
-![License: GPLv3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)]
+![License: GPLv3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
 
-![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/lulcc)]
+![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/lulcc)
 
-![Downloads](http://cranlogs.r-pkg.org/badges/lulcc)]
+![Downloads](http://cranlogs.r-pkg.org/badges/lulcc)
 
 ![Lifecycle:maturing](https://img.shields.io/badge/lifecycle-maturing-orange.svg)
 
