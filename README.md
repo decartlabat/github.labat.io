@@ -59,12 +59,14 @@ print s
 4. https://www.tablesgenerator.com/markdown_tables#
 5. https://github.com/brazil-data-cube
 
-## Lincenças que vamos usar no laboratório
 
-[![License: GPL
-v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/lulcc)](https://CRAN.R-project.org/package=lulcc)
-[![Downloads](http://cranlogs.r-pkg.org/badges/lulcc)](https://CRAN.R-project.org/package=lulcc)
-[![Lifecycle:
-maturing](https://img.shields.io/badge/lifecycle-maturing-orange.svg)](https://www.tidyverse.org/lifecycle/#maturing)
+## Lincenças que vamos usar no laboratório
+![License: GPLv3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
+
+![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/lulcc)](https://CRAN.R-project.org/package=lulcc)
+
+![Downloads](http://cranlogs.r-pkg.org/badges/lulcc)](https://CRAN.R-project.org/package=lulcc)
+
+![Lifecycle:maturing](https://img.shields.io/badge/lifecycle-maturing-orange.svg)](https://www.tidyverse.org/lifecycle/#maturing)
+
 ![R-CMD-check](https://github.com/simonmoulds/r_lulcc/workflows/R-CMD-check/badge.svg)
