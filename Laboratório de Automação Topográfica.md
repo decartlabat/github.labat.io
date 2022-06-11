@@ -1,9 +1,12 @@
 ---
-created: 2022-05-14T22:16:22 (UTC -03:00)
+created: '2022-05-14T22:16:22 (UTC -03:00)'
 tags: []
-source: https://sites.google.com/view/labat/01?authuser=0
-author: 
+source: 'https://sites.google.com/view/labat/01?authuser=0'
+author: null
+published: true
 ---
+![]({{site.baseurl}}/<a href="https://imgbb.com/"><img src="https://i.ibb.co/z6wCcnN/images.jpg" alt="images" border="0" /></a>)
+
 
 # Laboratório de Automação Topográfica
 
