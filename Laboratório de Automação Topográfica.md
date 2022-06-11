@@ -5,7 +5,7 @@ source: 'https://sites.google.com/view/labat/01?authuser=0'
 author: null
 published: true
 ---
-![]({{site.baseurl}}/<a href="https://imgbb.com/"><img src="https://i.ibb.co/z6wCcnN/images.jpg" alt="images" border="0" /></a>)
+![Labat](https://github.com/decartlabat/site/blob/master/simbololo%20labat.png?raw=true)
 
 
 # Laboratório de Automação Topográfica
